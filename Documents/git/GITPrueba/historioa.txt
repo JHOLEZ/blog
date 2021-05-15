@@ -6,4 +6,6 @@ jajjajaja
 master 1
 
 
+master 2
+
 ahora quiero comprobar que pasa cuando fusiono el archivo
