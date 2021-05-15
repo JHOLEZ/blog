@@ -6,4 +6,12 @@ se me olvido realizar dos cambios de ajuste
 
 VAMOS A PROBAR EL CHERRY-PICK pruebas
 Entonce lo crea jholez
+<<<<<<< HEAD
 y los agradecimiento en plaztzi
+=======
+y los agradecimiento en plaztzi
+
+Seguimos modificando el texto desde la rama cherry
+
+Realizando otra prueba para cherry
+>>>>>>> cherry
